@@ -18,8 +18,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "third_party/glm"
   "third_party/tinyobjloader"
   "third_party/imgui"
-  "third_party/SDL_PATH/include/SDL2"
-  "/include/SDL2"
+  "/usr/include/SDL2"
   "third_party/stb_image"
   )
 

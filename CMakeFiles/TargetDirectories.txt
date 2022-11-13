@@ -1,0 +1,11 @@
+/home/jb/Documents/VkGuideFollowAlong/CMakeFiles/rebuild_cache.dir
+/home/jb/Documents/VkGuideFollowAlong/CMakeFiles/edit_cache.dir
+/home/jb/Documents/VkGuideFollowAlong/CMakeFiles/Shaders.dir
+/home/jb/Documents/VkGuideFollowAlong/third_party/CMakeFiles/imgui.dir
+/home/jb/Documents/VkGuideFollowAlong/third_party/CMakeFiles/tinyobjloader.dir
+/home/jb/Documents/VkGuideFollowAlong/third_party/CMakeFiles/rebuild_cache.dir
+/home/jb/Documents/VkGuideFollowAlong/third_party/CMakeFiles/edit_cache.dir
+/home/jb/Documents/VkGuideFollowAlong/third_party/CMakeFiles/vkbootstrap.dir
+/home/jb/Documents/VkGuideFollowAlong/src/CMakeFiles/rebuild_cache.dir
+/home/jb/Documents/VkGuideFollowAlong/src/CMakeFiles/edit_cache.dir
+/home/jb/Documents/VkGuideFollowAlong/src/CMakeFiles/vulkan_guide.dir

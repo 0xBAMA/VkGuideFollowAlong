@@ -113,6 +113,8 @@ bin/vulkan_guide: third_party/libvkbootstrap.a
 bin/vulkan_guide: third_party/libtinyobjloader.a
 bin/vulkan_guide: third_party/libimgui.a
 bin/vulkan_guide: /usr/lib/x86_64-linux-gnu/libvulkan.so
+bin/vulkan_guide: /usr/lib/x86_64-linux-gnu/libSDL2main.a
+bin/vulkan_guide: /usr/lib/x86_64-linux-gnu/libSDL2.so
 bin/vulkan_guide: src/CMakeFiles/vulkan_guide.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jb/Documents/VkGuideFollowAlong/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ../bin/vulkan_guide"
 	cd /home/jb/Documents/VkGuideFollowAlong/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/vulkan_guide.dir/link.txt --verbose=$(VERBOSE)

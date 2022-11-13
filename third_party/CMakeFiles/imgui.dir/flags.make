@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++17
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/jb/Documents/VkGuideFollowAlong/third_party/imgui -I/home/jb/Documents/VkGuideFollowAlong/third_party/SDL_PATH/include/SDL2 -I/include/SDL2 
+CXX_INCLUDES = -I/home/jb/Documents/VkGuideFollowAlong/third_party/imgui -I/usr/include/SDL2 
 

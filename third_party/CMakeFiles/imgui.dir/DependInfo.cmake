@@ -16,8 +16,7 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "third_party/imgui"
-  "third_party/SDL_PATH/include/SDL2"
-  "/include/SDL2"
+  "/usr/include/SDL2"
   )
 
 # Targets to which this target links.
